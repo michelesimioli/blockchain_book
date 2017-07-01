@@ -1,8 +1,10 @@
-## Blockchain
+## Estensione del Blockchain
 
 I blocchi sono aggiunti al Blockchain solo dopo verifica multipla delle transazioni e solo se queste fanno parte del blocco che ottiene il consenso.
 
 ![Contend](../gitbook/images/contend.png)
+
+### Meccanismo di Consenso
 
 Il consenso è basato sul metodo **Proof of Work**.
 Occorre trovare un **Nonce** che, insieme al resto del blocco, produca uno hash inferiore ad un valore determinato. L'unico metodo possibile è basato su tentativi di cambiare il _Nonce_ (**Forza Bruta**).
@@ -13,6 +15,8 @@ La Difficoltà viene cambiata a intervalli regolari, nel tentativo di ottenere u
 Il _miner_ del blocco vincente riceve come compenso alcuni Ether. Il compenso per nuovi blocchi diminuisce col tempo, al momento è di BTC 12.50. Il miner percepisce anche un _transaction fee_ da ogni transazione finalizzata.
 
 Le transazioni proposte risiedono temporaneamente in un **Transaction Pool** finchè non si vedono inserite nel blocco vincente. Se una transazione offre un _fee_ appetibile può venir considerata da più _miners_ nei loro tentativi di generazione blocchi, quindi ha più probabilità di successo.
+
+### Blocchi Speciali
 
 #### Stale Block
 

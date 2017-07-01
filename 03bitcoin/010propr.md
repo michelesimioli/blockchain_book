@@ -1,5 +1,8 @@
 ## Proprietà
 
+
+![BkHead](../gitbook/images/bkhead.png)
+
 Bitcoin è software Open Source con licenza MIT, reperibile a `https://github.com/bitcoin/bitcoin`. E' scritto in C++.
 
 ### Struttura di un Blocco

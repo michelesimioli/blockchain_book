@@ -1,9 +1,5 @@
 ## Aspetti Legali
 
-![Venn](../gitbook/images/venndiagram.png)
-
-Bitcoin e il suo coinvolgimento in casi di _Ransomware_ ha causato un notevole incremento per gli aspetti legali delle criptovalute, e del Blockchain in generale, che prima intorpidivano nel dormiveglia di interesse della Giurisprudenza tradizionale.
-
 Vediamo alcune tipiche domande, gettonate in Internet.
 Va notato che viene descritta la situazione corrente, medio 2017, che può velocemente cambiare.
 
@@ -45,7 +41,7 @@ Ufficialmente però non vi è alcun riconoscimento del Bitcoin come valuta,e il 
 
 L'Agenzia delle Entrate ha anche allo studio una possibile inclusione del Bitcoin nelle tasse di compravendita di proprietà, qualora una futura legislazione decidesse che è un _asset_.
 
-#### E' illegale essere un 'miner'
+#### E' illegale essere un 'miner'?
 
 In alcune nazioni sì, poichè trattasi in molti casi di battere moneta, e questa è una prerogativa di enti autorizzati.
 
@@ -56,4 +52,4 @@ Si, nei paesi in cui il contenuto è illegale e viene estratto dal Blockchain in
 #### Se un nodo ospita l'intero Blockchain, condivide la responsabilità legale del contenuto?
 
 No, tratta solo sequenze di bit senza conoscenza della loro rappresentazione umana.
-Questo dipende molto però dai paesi, dal controllo fine delle autorità, e se la legge sia vista nell'ottica _prescrittiva_ o _proscrittiva_: 
+Questo dipende molto però dai paesi, dal controllo fine delle autorità, e se la legge sia vista nell'ottica _prescrittiva_ o _proscrittiva_.
