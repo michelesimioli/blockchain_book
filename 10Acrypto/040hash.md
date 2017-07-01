@@ -1,0 +1,2 @@
+## Funzioni di Hash
+
