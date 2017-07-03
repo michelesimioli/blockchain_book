@@ -1,2 +1,0 @@
-## Acquisto di Bitcoin
-

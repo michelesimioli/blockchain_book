@@ -19,3 +19,34 @@ Una Altcoin deve avere notevoli innovazioni tecnologiche o permettere operazioni
 Altrimenti vengono adottate soluzioni basate su Blockchain 2.0 (3.0, X) e non solo valute.
 
 Conviene comunque considerare qualche Altcoin dal punto di vista tecnico e di concorrenza.
+
+## Parametri delle Altcoins
+
+#### Parametri di design:
+
+* Nome e denominazioni della criptovaluta
+* Algoritmo di consenso
+* Algoritmo di hash
+* Algoritmo di aggiustamento difficoltà
+* Tempo medio per un blocco
+* Compenso iniziale per un blocco
+* Tempo di dimezzamento del compenso
+* Dimensione blocco
+* Dimensione transazioni
+* Commissione sulle transazioni
+* Invecchiamento della criptovaluta
+* Valore totale massimo di criptovaluta
+
+#### Parametri di mercato:
+
+* Valore della criptovaluta
+* Market CAP
+* Transazioni per unità di tempo
+* Valore medio di transazione
+* Volatilità
+* Criptovaluta in circolazione
+* Exchange con altre criptovalute
+* Asset o valuta
+* Facilità di trading
+* Mercanti che accettano la criptovaluta
+* Legalità d’uso

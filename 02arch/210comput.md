@@ -1,3 +1,3 @@
 ## Computazione
 
-![Kivelli](../gitbook/images/levels.png)
+![Livelli](../gitbook/images/levels.png)

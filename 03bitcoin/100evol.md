@@ -1,4 +1,6 @@
-## Bitcoin Improvement Proposals
+## Evoluzione di Bitcoin
+
+### Bitcoin Improvement Proposals (BIP)
 
 Documenti per informare le comunità Bitcoin della sua evoluzione e per proporre cambiamenti.
 Tre tipi di **BIP**s:
