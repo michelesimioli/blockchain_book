@@ -4,6 +4,7 @@ Litecoin è molto simile a Bitcoin, ma volutamente più _leggera_ nelle operazio
 
 
 Principali differenze tra Bitcoin e Litecoin:
+
 | Proprietà | Bitcoin | Litecoin |
 | -- | -- | -- |
 | Creata il | 2/1/2009 | 7/10/2011|

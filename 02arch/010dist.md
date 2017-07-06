@@ -1,7 +1,7 @@
 ## Sistemi Distribuiti
 
 Quello dei sistemi distribuiti è un paradigma computazionale ormai molto affermato.
-Un sistema distribuito è costituito da _nodi_ di rete che si interscambiano _messaggi.
+Un sistema distribuito è costituito da _nodi_ di rete che si interscambiano _messaggi_.
 
 Sono possibili tre topologie di rete:
 

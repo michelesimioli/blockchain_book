@@ -47,13 +47,4 @@ Forse il creatore incognito di Bitcoin
 * Persona fittizia e pseudonima
 * Tutte le idee precedenti, più il **Blockchain**
 
-### Note
 
-Il denaro elettronico è stato, almeno originariamente, fortemente osteggiato dalle autorità nazionali, particolarmente americane, a causa delle sue proprietà intrinseche:
-* viola la prerogativa _Reale_ di battere moneta
-* se anonimo, permette attività illegali
-    * evazione fiscale
-    * riciclaggio
-    * pagamenti per oggetti o servizi illegali
-* non è gravato da debiti
-* non è gestito da _Banche Centrali_
