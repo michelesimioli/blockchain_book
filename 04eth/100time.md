@@ -1,2 +1,0 @@
-## Tempo per un Blocco
-
