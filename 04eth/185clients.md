@@ -16,3 +16,6 @@ Non ci sono molti wallets specifici per Ethereum. I più noti sono:
     * Mantengono loro la chiave privata (molto insicuro)
 * Exodus - per desktop (`https://www.exodus.io/`)
 * Jaxx - per desktop e mobile (`https://jaxx.io/`)
+
+![Jaxx](../gitbook/images/jaxx.png)
+
