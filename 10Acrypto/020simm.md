@@ -4,13 +4,15 @@
 
 Concetto tradizionale di chiave. La stessa chiave crittografa e decrittografa un messaggio.
 
-La crittografazione può essere:
-* **stream cypher** - ugni byte è crittografato singolarmente
-* **block cypher** - un blocco di bit è l'unità che viene crittografata, tipicamente 64 bit
+La crittografazione può essere basata su:
+
+* **stream cypher** - ogni byte è crittografato singolarmente
+* **block cypher** - un blocco di bit è l'unità che viene crittografata, per esempio 64 bit
 
 La _stream cypher_ è considerata poco sicura è non è più praticamente usata.
 
 La crittografazione è composta da due aspetti:
+
 * **algoritmi**
 * **chiavi**
 

@@ -1,6 +1,7 @@
 ## Crittografia Asimmetrica
 
 Le chiavi asimmetrichè sono ottenute con alcuni - pochi - metodi diversi, tra cui:
+
 * fattorizzazione di numeri prodotto di due numeri primi molto grandi
 * uso delle proprietà delle _curve ellittiche_
 
